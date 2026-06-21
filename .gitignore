@@ -1,0 +1,5 @@
+.DS_store
+.idea/
+input_data/
+preprocessed_data/
+docs/
